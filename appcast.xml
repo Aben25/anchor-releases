@@ -6,6 +6,7 @@
     <description>Anchor updates</description>
     <language>en</language>
     <!-- items: scripts/release.sh inserts new versions below, newest first -->
+    <item><title>Version 0.3.1</title><pubDate>Tue, 20 Oct 2026 23:59:36 +0000</pubDate><sparkle:version>4</sparkle:version><sparkle:shortVersionString>0.3.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/Aben25/anchor-releases/releases/download/v0.3.1/Anchor-0.3.1.dmg" sparkle:edSignature="mCemYtnUARXlmuxwtv9drvCK1TPS7Ce7PPv9GhkjU0GEKQxEUtzpBqO4mT0owbZ1N2zuxQzuIfdgV0s30l0wBA==" length="6931808" type="application/octet-stream"/></item>
     <item><title>Version 0.3.0</title><pubDate>Tue, 20 Oct 2026 23:02:53 +0000</pubDate><sparkle:version>3</sparkle:version><sparkle:shortVersionString>0.3.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/Aben25/anchor-releases/releases/download/v0.3.0/Anchor-0.3.0.dmg" sparkle:edSignature="p9kQZSFNg6zkr622avhFLbLe8de4Or89EGYO9fDFQ0BUY44exgAlpwp6oHJP9ubbSt/iyjfBt6p4u6Mnh02kCQ==" length="6925937" type="application/octet-stream"/></item>
   </channel>
 </rss>
